@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69225717021",
+    "project_id": "stresis-970fb",
+    "storage_bucket": "stresis-970fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69225717021:android:55ddcafd5370f77841d5f4",
+        "android_client_info": {
+          "package_name": "com.example.stresis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69225717021-1qr88jur8nmd82gl8954i79ln008rcpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcB1FBLh9X3Vj4aWcvjkIZ0vG_9Fcw9_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69225717021-1qr88jur8nmd82gl8954i79ln008rcpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
